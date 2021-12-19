@@ -5,4 +5,4 @@ Pada Pembahasan ini kita akan membahas langkah- langkah reverse proxy dengan ser
 * pertama kita masuk ke instance nginx kita yang sudah kita buat tadi dengan cara 
 * buka terminal lalu tuliskan perintah `ssh -I nama_file_ssh ubuntu@ip address aws`
 
-![1](assets/reverse-aws1.PNG)
+  ![1](assets/reverse-aws1.PNG)
