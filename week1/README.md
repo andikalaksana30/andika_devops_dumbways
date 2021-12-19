@@ -22,6 +22,4 @@ kebutuhan yang harus ada :
 
 [AWS Reverse Proxy](AWS-reverse-proxy.md)
 
-[Custom Domain](Custom-Domain.md)
-
 [SSL Configuration](ssl-conf.md)
