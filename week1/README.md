@@ -14,7 +14,7 @@ kebutuhan yang harus ada :
 
 [APPS Frontend & Reverse Proxy VMWare](AppFrontend-&-Reverseproxy.md)
 
-[AWS Setup Network](AWS-setup.md)
+[Setup server AWS for frontend](AWS-setup.md)
 
 [APPS Frontend In Server App AWS](InstallApp-ServerAWS.md)
 
