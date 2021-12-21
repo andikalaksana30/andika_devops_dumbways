@@ -12,8 +12,6 @@ kebutuhan yang harus ada :
 # Penyelesaian
 [Install Ubuntu Server In VMWare](VMWare-Install-Ubuntu.md)
 
-[Setup Network](setup-network.md)
-
 [APPS Frontend & Reverse Proxy VMWare](AppFrontend-&-Reverseproxy.md)
 
 [AWS Setup Network](AWS-setup.md)
