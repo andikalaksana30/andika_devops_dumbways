@@ -79,6 +79,7 @@ jika sudah selesai klik done untuk  melanjutkan
 
 ### step 15
 * tunggu proses installasi selesai, setelah  itu jika muncul tulisan reboot now, pilih  reboot now untuk merestart virtual  mechine dan tunggu hingga proses  selesai
+* dan jika sudah berhasil, maka akan tampil seperti gambar berikut
 
 ![15](assets/vm15.PNG)
 
