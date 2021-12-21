@@ -16,7 +16,7 @@ kebutuhan yang harus ada :
 
 [Setup server AWS for frontend](AWS-setup.md)
 
-[APPS Frontend In Server App AWS](InstallApp-ServerAWS.md)
+[Setup server AWS for nginx](InstallApp-ServerAWS.md)
 
 [AWS Reverse Proxy](AWS-reverse-proxy.md)
 
