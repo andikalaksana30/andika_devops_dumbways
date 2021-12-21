@@ -142,5 +142,7 @@
 
 ![5](assets/app-aws5.PNG)
 
+![6](assets/app-aws6.PNG)
+
 
   
