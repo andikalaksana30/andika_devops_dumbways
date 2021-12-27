@@ -1,5 +1,5 @@
-# Week 1
-Pembahasan kali ini mengenai Installasi Ubuntu server di VMWare, Mensetup Network Dengan AWS, Membuat Reverse Proxy, Custom Domain dengan Cloudflare dan SSL Configuration
+# Week 2
+pada week ke 2 ini saya mendapatkan tugas untuk mendepoly aplikasi backend dan setup custom domain untuk aplikasi backend tersebut, berikut langkah langkah penyelesaian nya :
 
 # Kebutuhan
 kebutuhan yang harus ada :
@@ -8,18 +8,18 @@ kebutuhan yang harus ada :
 - VPS : AWS Educate
 - DNS : Cloudflare 
 - HTTPS : Certbot
+- Aplikasi Backend
 
 # Penyelesaian
-[Install Ubuntu Server In VMWare](VMWare-Install-Ubuntu.md)
+[Install Git & SSH Key](install-git-and-ssh.md)
 
-[Setup Network](setup-network.md)
+[setup database](setup-database.md)
 
-[APPS Frontend & Reverse Proxy VMWare](AppFrontend-&-Reverseproxy.md)
+[Deployment Bcakend App](deploy-backend-app.md)
 
-[AWS Setup Network](AWS-setup.md)
+[Reverse Proxy](reverse-proxy.md)
 
-[APPS Frontend In Server App AWS](InstallApp-ServerAWS.md)
+[Custom Domain](custom-domain.md)
 
-[AWS Reverse Proxy](AWS-reverse-proxy.md)
+[SSL Config](ssl-config.md)
 
-[SSL Configuration](ssl-conf.md)
