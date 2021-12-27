@@ -13,10 +13,12 @@ Bootcamp Dumbways Devops Engineer Batch 7
 - [Baca lebih lanjut](week1/README.md)
 
 ## Minggu ke 2
-- Membuat langkah-langkah installasi linux serta penggunaan command diterminal
-- Membuat dokumentasi git yang berisikan perintah-perintah untuk versioning
-- Membuat study case proses update branch antara branch development, branch staging dan branch production
-- membuat proses/tahapan CI/CD menggunakan github action
+- Install Git & SSH Key
+- Setup Database
+- Deploy Backend App
+- Reverse Proxy
+- Custom Domain
+- SSL Config
 - [Baca lebih lanjut](week2/README.md)
 
 ## Minggu ke 3
